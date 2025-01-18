@@ -1,6 +1,6 @@
 # Udemy Angular Course Project
 
-This project was created as part of the [**Angular - The Complete Guide (2025 Edition)**](https://www.udemy.com/course/the-complete-guide-to-angular-2/) course by [Maximilian Schwarzmüller].
+This project was created as part of the [**Angular - The Complete Guide (2025 Edition)**](https://www.udemy.com/course/the-complete-guide-to-angular-2/) course by Maximilian Schwarzmüller.
 
 ## About This Project
 
